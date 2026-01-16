@@ -17,9 +17,9 @@ When you click the GitHub classroom link:
 - GitHub creates a private repo:
 --> oop-rock-paper-scissors-StudentUsername
 - You clone your repo locally
-- Opens the Visual Studio solution
+- Open the Visual Studio solution
 - Completes all TODOs
-- Do frequent Commits & pushes
+- Do frequent Commits & Pushes
 - ensure you are done by the deadline Jan. 20th 11:59pm
 
 
