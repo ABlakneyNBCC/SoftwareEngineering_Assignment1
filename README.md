@@ -6,7 +6,7 @@ You will complete a console-based **Rock, Paper, Scissors** game by following th
 You can see a working solution here: https://www.youtube.com/watch?v=njfmd623VoQ
 
 Complete All TODO Instructions
-Every .cs file contains TODO instructional comments.
+- Every .cs file contains TODO instructional comments.
 Your task is to:
 - Read each TODO carefully
 - Implement the required logic
